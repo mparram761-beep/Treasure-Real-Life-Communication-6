@@ -1,0 +1,2183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605102154049D9GB3</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605102154043SBDL1</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Imported Project</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778441797101</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp06bsxr-80yxb4kjx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>THE TREASURE OF COMMUNICATION: DISCOVERING ENGLISH THROUGH REAL-LIFE SITUATIONS</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>THE TREASURE OF COMMUNICATION: DISCOVERING ENGLISH THROUGH REAL-LIFE SITUATIONS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>THE TREASURE OF COMMUNICATION: DISCOVERING ENGLISH THROUGH REAL-LIFE SITUATIONS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>THE TREASURE OF COMMUNICATION: DISCOVERING ENGLISH THROUGH REAL-LIFE SITUATIONS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp06bsxr-80yxb4kjx</odePageId>
+      <odeBlockId>20260509224902FWIQLT</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp06bsxr-80yxb4kjx</odePageId>
+          <odeBlockId>20260509224902FWIQLT</odeBlockId>
+          <odeIdeviceId>20260509073036CWOCRF</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="exe-text">
+<p>Good morning everyone!</p>
+<p>Think about this for a moment:<br>How many times do you communicate every day?<br>You send messages, ask for help, order food, watch videos, talk to friends, use social media… Communication is everywhere. But what happens when you need to do all that in another language?</p>
+<p>Today, we are starting a new project called “The Treasure of Communication: Discovering English through Real-Life Situations.”<br>In this unit, English will not just be a school subject. It will become a real tool for communication. You will learn how to use English in everyday situations that could happen in real life: travelling, asking for information, solving problems, giving opinions, or interacting with other people.</p>
+<p>The main goal is not to be perfect, but to communicate effectively, confidently and creatively. Throughout the project, you will work in teams, create dialogues and digital products, and practise speaking English in realistic contexts. You will also reflect on cultural diversity, cooperation and respectful communication.</p>
+<p>At the end of the project, you will create your own final communicative task using digital tools such as Canva and Flip, where you will show how English can help us connect with people and situations in the real world.</p>
+<p>So, are you ready to discover the treasure of communication?</p>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260509073036CWOCRF","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"\n<p>Good morning everyone!</p>\n<p>Think about this for a moment:<br />How many times do you communicate every day?<br />You send messages, ask for help, order food, watch videos, talk to friends, use social media… Communication is everywhere. But what happens when you need to do all that in another language?</p>\n<p>Today, we are starting a new project called “The Treasure of Communication: Discovering English through Real-Life Situations.”<br />In this unit, English will not just be a school subject. It will become a real tool for communication. You will learn how to use English in everyday situations that could happen in real life: travelling, asking for information, solving problems, giving opinions, or interacting with other people.</p>\n<p>The main goal is not to be perfect, but to communicate effectively, confidently and creatively. Throughout the project, you will work in teams, create dialogues and digital products, and practise speaking English in realistic contexts. You will also reflect on cultural diversity, cooperation and respectful communication.</p>\n<p>At the end of the project, you will create your own final communicative task using digital tools such as Canva and Flip, where you will show how English can help us connect with people and situations in the real world.</p>\n<p>So, are you ready to discover the treasure of communication?</p>\n","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp06bsy0-p48b31ptj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>0 - Remember</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>0 - Remember</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>0 - Remember</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>0 - Remember</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp06bsy2-43gff2ofj</odePageId>
+  <odeParentPageId>page-mp06bsy0-p48b31ptj</odeParentPageId>
+  <pageName>0.1 - Licences and safety</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>0.1 - Licences and safety</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>0.1 - Licences and safety</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>0.1 - Licences and safety</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp06bsy2-43gff2ofj</odePageId>
+      <odeBlockId>20260509224902EWWXEH</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp06bsy2-43gff2ofj</odePageId>
+          <odeBlockId>20260509224902EWWXEH</odeBlockId>
+          <odeIdeviceId>20260509073036VMFVQR</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="exe-text">
+<p>Recordad que para hacer este trabajo debéis tener en cuenta lo siguiente:</p>
+<p><img src="{{context_path}}/content/resources/20260509073036VMFVQR/Infografia_Grafico_Proceso_Pasos_Orden_Doodle_Multicolor.jpg" width="800" height="2000" alt=""><br></p>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260509073036VMFVQR","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"\n<p>Recordad que para hacer este trabajo debéis tener en cuenta lo siguiente:</p>\n<p><img src=\"{{context_path}}/content/resources/20260509073036VMFVQR/Infografia_Grafico_Proceso_Pasos_Orden_Doodle_Multicolor.jpg\" width=\"800\" height=\"2000\" alt=\"\" /><br /></p>\n","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp06bsy9-clfo0dylw</odePageId>
+  <odeParentPageId>page-mp06bsy0-p48b31ptj</odeParentPageId>
+  <pageName>0.2 - Contents</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>0.2 - Contents</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>0.2 - Contents</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>0.2 - Contents</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp06bsy9-clfo0dylw</odePageId>
+      <odeBlockId>20260509224902BVTLJP</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>10</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp06bsy9-clfo0dylw</odePageId>
+          <odeBlockId>20260509224902BVTLJP</odeBlockId>
+          <odeIdeviceId>20260509073036VMYWNZ</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Debéis utilizar las herramientas siguientes:</p>
+<p><a href="https://www.symbaloo.com/shared/AAAAAysRj6QAA41_WuQyIQ==">https://www.symbaloo.com/shared/AAAAAysRj6QAA41_WuQyIQ==</a></p>
+<p>Además, esta guía de trabajo os ayudará en vuestro camino:</p>
+<p><a href="https://padlet.com/mparram761/working-guide-the-treasure-of-communication-discovering-engl-4wvxmaon820vp9e3">https://padlet.com/mparram761/working-guide-the-treasure-of-communication-discovering-engl-4wvxmaon820vp9e3</a> </p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260509073036VMYWNZ","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Debéis utilizar las herramientas siguientes:</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAAysRj6QAA41_WuQyIQ==\">https://www.symbaloo.com/shared/AAAAAysRj6QAA41_WuQyIQ==</a></p>\n<p>Además, esta guía de trabajo os ayudará en vuestro camino:</p>\n<p><a href=\"https://padlet.com/mparram761/working-guide-the-treasure-of-communication-discovering-engl-4wvxmaon820vp9e3\">https://padlet.com/mparram761/working-guide-the-treasure-of-communication-discovering-engl-4wvxmaon820vp9e3</a> </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp06bsyc-11gpc6eqc</odePageId>
+  <odeParentPageId>page-mp06bsy0-p48b31ptj</odeParentPageId>
+  <pageName>0.3 - Time organisation</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>0.3 - Time organisation</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>0.3 - Time organisation</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>0.3 - Time organisation</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp06bsyc-11gpc6eqc</odePageId>
+      <odeBlockId>20260509224902HROSCU</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>13</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp06bsyc-11gpc6eqc</odePageId>
+          <odeBlockId>20260509224902HROSCU</odeBlockId>
+          <odeIdeviceId>20260509073036WOMTBT</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="exe-text">
+<p>Esta línea temporal nos marcará el camino a seguir:</p>
+<p>&nbsp;<img src="{{context_path}}/content/resources/20260509073036WOMTBT/mceclip0.jpg"></p>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260509073036WOMTBT","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"\n<p>Esta línea temporal nos marcará el camino a seguir:</p>\n<p> <img src=\"{{context_path}}/content/resources/20260509073036WOMTBT/mceclip0.jpg\" /></p>\n","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp06bsyg-zx1e8csi3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1 - Communication in EFL</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1 - Communication in EFL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1 - Communication in EFL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1 - Communication in EFL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp06bsyg-zx1e8csi3</odePageId>
+      <odeBlockId>20260509224902FFVNBI</odeBlockId>
+      <blockName>null</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>17</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp06bsyg-zx1e8csi3</odePageId>
+          <odeBlockId>20260509224902FFVNBI</odeBlockId>
+          <odeIdeviceId>20260509073036NTGZOC</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="exe-text">
+<p>Communication is the process of <strong>exchanging information</strong>, ideas, feelings or opinions with other people. In English, communication is not only about grammar and vocabulary; it is also about understanding others and expressing ourselves clearly and appropriately in different situations.</p>
+<p>There are different types of communication:</p>
+<ul>
+<li>Oral communication: speaking and listening.</li>
+<li>Written communication: messages, emails, texts or notes.</li>
+<li>Non-verbal communication: gestures, facial expressions, body language and tone of voice.</li>
+</ul>
+<p>In real-life situations, communication usually has a specific purpose, such as: asking for information,<br>giving opinions, solving problems, making requests, apologising, or interacting socially.<br></p>
+<p>To communicate effectively in English, we need:</p>
+<ul>
+<li>appropriate vocabulary,</li>
+<li>correct grammatical structures,</li>
+<li>clear pronunciation,</li>
+<li>active listening,</li>
+<li>and respectful interaction.</li>
+</ul>
+<p>Communication also depends on the context and the register:</p>
+<ul>
+<li><strong>Formal language</strong> is used in professional or academic situations.</li>
+<li><strong>Informal language</strong> is used with friends or family.</li>
+</ul>
+<p>Useful communication strategies include: asking for clarification, repeating information, using gestures,<br>paraphrasing, and cooperating with others during interaction.</p>
+<p><strong>English is an international language</strong> that helps people from different cultures communicate. For this reason, learning English also means developing respect for cultural diversity and improving intercultural understanding.</p>
+<p>In this unit, students will practise English through realistic communicative situations to develop confidence, fluency and practical language skills for everyday life.</p>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260509073036NTGZOC","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"\n<p>Communication is the process of <strong>exchanging information</strong>, ideas, feelings or opinions with other people. In English, communication is not only about grammar and vocabulary; it is also about understanding others and expressing ourselves clearly and appropriately in different situations.</p>\n<p>There are different types of communication:</p>\n<ul>\n<li>Oral communication: speaking and listening.</li>\n<li>Written communication: messages, emails, texts or notes.</li>\n<li>Non-verbal communication: gestures, facial expressions, body language and tone of voice.</li>\n</ul>\n<p>In real-life situations, communication usually has a specific purpose, such as: asking for information,<br />giving opinions, solving problems, making requests, apologising, or interacting socially.<br /></p>\n<p>To communicate effectively in English, we need:</p>\n<ul>\n<li>appropriate vocabulary,</li>\n<li>correct grammatical structures,</li>\n<li>clear pronunciation,</li>\n<li>active listening,</li>\n<li>and respectful interaction.</li>\n</ul>\n<p>Communication also depends on the context and the register:</p>\n<ul>\n<li><strong>Formal language</strong> is used in professional or academic situations.</li>\n<li><strong>Informal language</strong> is used with friends or family.</li>\n</ul>\n<p>Useful communication strategies include: asking for clarification, repeating information, using gestures,<br />paraphrasing, and cooperating with others during interaction.</p>\n<p><strong>English is an international language</strong> that helps people from different cultures communicate. For this reason, learning English also means developing respect for cultural diversity and improving intercultural understanding.</p>\n<p>In this unit, students will practise English through realistic communicative situations to develop confidence, fluency and practical language skills for everyday life.</p>\n","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp06bsyj-qvjhxe6ht</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2 - Tourism and communication</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2 - Tourism and communication</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2 - Tourism and communication</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2 - Tourism and communication</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp06bsyj-qvjhxe6ht</odePageId>
+      <odeBlockId>20260509224902DLNIFN</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp06bsyj-qvjhxe6ht</odePageId>
+          <odeBlockId>20260509224902DLNIFN</odeBlockId>
+          <odeIdeviceId>20260509073036SAVAFP</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><strong>Communication and tourism</strong> are closely connected because tourism depends on interaction between people from different countries, languages and cultures. In real-life situations, English is often used as an international language that allows tourists and local people to understand each other and communicate effectively.</p>
+<p>In the tourism sector, communication is essential to&nbsp;give and receive information, ask for help, solve problems, offer services, explain cultural or historical aspects, and create positive social interactions.<br></p>
+<p>Tourists use English in many everyday situations, for example: booking a hotel room, ordering food in a restaurant, asking for directions, visiting museums or monuments, shopping, or talking to tour guides.<br></p>
+<p>At the same time, <strong>professionals working in tourism need communication skills</strong> to: welcome visitors,<br>provide clear instructions, answer questions politely, recommend places and activities, and help tourists feel comfortable and safe.</p>
+<p>Good communication in tourism is not only about speaking correctly; it also involves active listening,<br>politeness, body language, cultural awareness, and the ability to adapt language to different people and situations.</p>
+<p>Tourism also <strong>promotes intercultural communication</strong> because people learn about different traditions, lifestyles and perspectives. Through communication, tourists and local communities can exchange experiences and develop respect for cultural diversity.</p>
+<p>For this reason, learning English through tourism-related situations helps students practise practical vocabulary and realistic conversations while developing confidence, cooperation and intercultural competence. It prepares them to communicate successfully in a globalised world where English is an important tool for real interaction.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260509073036SAVAFP","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Communication and tourism</strong> are closely connected because tourism depends on interaction between people from different countries, languages and cultures. In real-life situations, English is often used as an international language that allows tourists and local people to understand each other and communicate effectively.</p>\n<p>In the tourism sector, communication is essential to give and receive information, ask for help, solve problems, offer services, explain cultural or historical aspects, and create positive social interactions.<br /></p>\n<p>Tourists use English in many everyday situations, for example: booking a hotel room, ordering food in a restaurant, asking for directions, visiting museums or monuments, shopping, or talking to tour guides.<br /></p>\n<p>At the same time, <strong>professionals working in tourism need communication skills</strong> to: welcome visitors,<br />provide clear instructions, answer questions politely, recommend places and activities, and help tourists feel comfortable and safe.</p>\n<p>Good communication in tourism is not only about speaking correctly; it also involves active listening,<br />politeness, body language, cultural awareness, and the ability to adapt language to different people and situations.</p>\n<p>Tourism also <strong>promotes intercultural communication</strong> because people learn about different traditions, lifestyles and perspectives. Through communication, tourists and local communities can exchange experiences and develop respect for cultural diversity.</p>\n<p>For this reason, learning English through tourism-related situations helps students practise practical vocabulary and realistic conversations while developing confidence, cooperation and intercultural competence. It prepares them to communicate successfully in a globalised world where English is an important tool for real interaction.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp06bsyp-cw06izw2n</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3 - Useful contents</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3 - Useful contents</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3 - Useful contents</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3 - Useful contents</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp06bsyp-cw06izw2n</odePageId>
+      <odeBlockId>20260509224902EUYYIP</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>30</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp06bsyp-cw06izw2n</odePageId>
+          <odeBlockId>20260509224902EUYYIP</odeBlockId>
+          <odeIdeviceId>20260509073036QVLDRM</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260509073036QVLDRM","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp06bsyu-yksnsnihi</odePageId>
+  <odeParentPageId>page-mp06bsyp-cw06izw2n</odeParentPageId>
+  <pageName>3.1 - Functional language</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.1 - Functional language</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.1 - Functional language</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.1 - Functional language</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp06bsyu-yksnsnihi</odePageId>
+      <odeBlockId>20260509224902EGJYYK</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp06bsyu-yksnsnihi</odePageId>
+          <odeBlockId>20260509224902EGJYYK</odeBlockId>
+          <odeIdeviceId>20260509073036YRHTPW</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><strong>Tour Guide</strong><br>Greeting tourists<br>Welcoming visitors<br>Giving information<br>Describing places<br>Giving directions<br>Recommending activities<br>Explaining rules or schedules<br>Answering questions</p>
+<p><strong>Tourist</strong><br>Asking for information<br>Asking for clarification<br>Expressing opinions<br>Showing interest or surprise<br>Asking for recommendations<br>Asking for help<br>Thanking and responding politely</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260509073036YRHTPW","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Tour Guide</strong><br />Greeting tourists<br />Welcoming visitors<br />Giving information<br />Describing places<br />Giving directions<br />Recommending activities<br />Explaining rules or schedules<br />Answering questions</p>\n<p><strong>Tourist</strong><br />Asking for information<br />Asking for clarification<br />Expressing opinions<br />Showing interest or surprise<br />Asking for recommendations<br />Asking for help<br />Thanking and responding politely</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp06bsyz-98zwp1xhb</odePageId>
+  <odeParentPageId>page-mp06bsyp-cw06izw2n</odeParentPageId>
+  <pageName>3.2 - Useful expressions</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.2 - Useful expressions</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.2 - Useful expressions</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.2 - Useful expressions</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp06bsyz-98zwp1xhb</odePageId>
+      <odeBlockId>20260509224902FUQSEM</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp06bsyz-98zwp1xhb</odePageId>
+          <odeBlockId>20260509224902FUQSEM</odeBlockId>
+          <odeIdeviceId>20260509073036UNIZPN</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><strong>Tour Guide Expressions</strong><br>Welcome to…<br>Today we are visiting…<br>This place is famous for…<br>On your left/right, you can see…<br>I recommend visiting…<br>Please follow me.<br>The tour starts at…</p>
+<p><strong>Tourist Expressions</strong><br>Excuse me, could you help me?<br>What is this place known for?<br>How old is this monument?<br>Could you repeat that, please?<br>Where can I buy tickets?<br>What do you recommend?<br>That sounds interesting!</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260509073036UNIZPN","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Tour Guide Expressions</strong><br />Welcome to…<br />Today we are visiting…<br />This place is famous for…<br />On your left/right, you can see…<br />I recommend visiting…<br />Please follow me.<br />The tour starts at…</p>\n<p><strong>Tourist Expressions</strong><br />Excuse me, could you help me?<br />What is this place known for?<br />How old is this monument?<br />Could you repeat that, please?<br />Where can I buy tickets?<br />What do you recommend?<br />That sounds interesting!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp06bsz4-krlamalsp</odePageId>
+  <odeParentPageId>page-mp06bsyp-cw06izw2n</odeParentPageId>
+  <pageName>3.3 - Vocabulary</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.3 - Vocabulary</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.3 - Vocabulary</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.3 - Vocabulary</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp06bsz4-krlamalsp</odePageId>
+      <odeBlockId>20260509224902CDNPUK</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp06bsz4-krlamalsp</odePageId>
+          <odeBlockId>20260509224902CDNPUK</odeBlockId>
+          <odeIdeviceId>20260509073036YRUVYP</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><strong>Tourism Vocabulary</strong><br>monument<br>museum<br>sightseeing<br>landmark<br>tour<br>guide<br>visitor<br>brochure<br>map<br>ticket<br>schedule<br>entrance<br>local food<br>souvenirs<br>historical building<br><strong>Places in a City</strong><br>square<br>church<br>castle<br>bridge<br>beach<br>market<br>old town<br>tourist office</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260509073036YRUVYP","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Tourism Vocabulary</strong><br />monument<br />museum<br />sightseeing<br />landmark<br />tour<br />guide<br />visitor<br />brochure<br />map<br />ticket<br />schedule<br />entrance<br />local food<br />souvenirs<br />historical building<br /><strong>Places in a City</strong><br />square<br />church<br />castle<br />bridge<br />beach<br />market<br />old town<br />tourist office</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp06bsz7-zt60jn0f0</odePageId>
+  <odeParentPageId>page-mp06bsyp-cw06izw2n</odeParentPageId>
+  <pageName>3.4 - Grammar Contents</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.4 - Grammar Contents</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.4 - Vooabulary</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.4 - Grammar Contents</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp06bsz7-zt60jn0f0</odePageId>
+      <odeBlockId>20260509224902NNPPWW</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp06bsz7-zt60jn0f0</odePageId>
+          <odeBlockId>20260509224902NNPPWW</odeBlockId>
+          <odeIdeviceId>20260509083147FVWVYD</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><strong>Present Simple</strong><br>This museum opens at 10 a.m.<br>Many tourists visit this place every year.</p>
+<p><strong>Past Simple</strong><br>The castle was built in the 15th century.<br>People lived here many years ago.</p>
+<p><strong>Modal Verbs</strong><br>You can visit the museum.<br>You should try the local food.</p>
+<p><strong>There is / There are</strong><br>There is a famous monument near the square.</p>
+<p><strong>Comparatives & Superlatives</strong><br>This is the oldest building in the city.</p>
+<p><strong>Question Forms</strong><br>Where is the tourist office?<br>How much does the ticket cost?</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260509083147FVWVYD","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Present Simple</strong><br />This museum opens at 10 a.m.<br />Many tourists visit this place every year.</p>\n<p><strong>Past Simple</strong><br />The castle was built in the 15th century.<br />People lived here many years ago.</p>\n<p><strong>Modal Verbs</strong><br />You can visit the museum.<br />You should try the local food.</p>\n<p><strong>There is / There are</strong><br />There is a famous monument near the square.</p>\n<p><strong>Comparatives & Superlatives</strong><br />This is the oldest building in the city.</p>\n<p><strong>Question Forms</strong><br />Where is the tourist office?<br />How much does the ticket cost?</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp06bszb-ax55otlz7</odePageId>
+  <odeParentPageId>page-mp06bsyp-cw06izw2n</odeParentPageId>
+  <pageName>3.5 - Listening &amp; Interaction Skills</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.5 - Listening &amp; Interaction Skills</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.4 - Vooabulary</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.5 - Listening &amp; Interaction Skills</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp06bszb-ax55otlz7</odePageId>
+      <odeBlockId>20260509224902IXCIVX</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp06bszb-ax55otlz7</odePageId>
+          <odeBlockId>20260509224902IXCIVX</odeBlockId>
+          <odeIdeviceId>20260509083315FSIBJW</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><ul>
+<li>Understanding questions</li>
+<li>Asking for repetition</li>
+<li>Taking turns</li>
+<li>Active listening</li>
+<li>Using polite language</li>
+<li>Reacting naturally in conversations</li>
+</ul><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260509083315FSIBJW","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Understanding questions</li>\n<li>Asking for repetition</li>\n<li>Taking turns</li>\n<li>Active listening</li>\n<li>Using polite language</li>\n<li>Reacting naturally in conversations</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp06bszf-jf2xiqiyy</odePageId>
+  <odeParentPageId>page-mp06bsyp-cw06izw2n</odeParentPageId>
+  <pageName>3.6 - Role-Play Situations</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.6 - Role-Play Situations</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.4 - Vooabulary</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.6 - Role-Play Situations</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp06bszf-jf2xiqiyy</odePageId>
+      <odeBlockId>20260509224902VSZRGL</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp06bszf-jf2xiqiyy</odePageId>
+          <odeBlockId>20260509224902VSZRGL</odeBlockId>
+          <odeIdeviceId>20260509083416JQCFFJ</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><ul>
+<li>Guided city tour</li>
+<li>Visit to a historical monument</li>
+<li>Tourist asking for directions</li>
+<li>Food tour in a local market</li>
+<li>Airport or hotel interaction</li>
+<li>Museum visit</li>
+<li>Tourist information office</li>
+</ul><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260509083416JQCFFJ","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Guided city tour</li>\n<li>Visit to a historical monument</li>\n<li>Tourist asking for directions</li>\n<li>Food tour in a local market</li>\n<li>Airport or hotel interaction</li>\n<li>Museum visit</li>\n<li>Tourist information office</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp06bszi-kpcc1ouql</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4 - Explanation and task organisation</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4 - Explanation and task organisation</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4 - Explanation and task organisation</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4 - Explanation and task organisation</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp06bszi-kpcc1ouql</odePageId>
+      <odeBlockId>20260509224902AUOFKL</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>48</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp06bszi-kpcc1ouql</odePageId>
+          <odeBlockId>20260509224902AUOFKL</odeBlockId>
+          <odeIdeviceId>20260509073036CGZDNM</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="exe-text">
+<p>Here, we'll see how to organise the documents to work with your classmates:</p>
+<ul>
+<li>Create a folder in your Drive account called "The Treasure of Communication: Discovering English through Real-Life Situations". It must include:<br>
+<ul>
+<li>The different videos you have been using to create your own role-play.</li>
+<li>All the elements you have been using for that.</li>
+</ul>
+</li>
+<li>Remember to share it with your teacher.</li>
+</ul>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/20260509073036CGZDNM/mceclip1.png"></p>
+<p style="text-align: left;">From here on, you will be responsible of your progress. Remember that your teacher will be assessing you, and the assessment criteria established for that are:&nbsp;</p>
+<a href="https://docs.google.com/document/d/1yIivdncMy3Dj7zQ8VKAJJHGmzIkdOrfNwdTTrQZGx74/edit?tab=t.0">https://docs.google.com/document/d/1yIivdncMy3Dj7zQ8VKAJJHGmzIkdOrfNwdTTrQZGx74/edit?tab=t.0</a>&nbsp;<br></div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260509073036CGZDNM","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"\n<p>Here, we'll see how to organise the documents to work with your classmates:</p>\n<ul>\n<li>Create a folder in your Drive account called \"The Treasure of Communication: Discovering English through Real-Life Situations\". It must include:<br />\n<ul>\n<li>The different videos you have been using to create your own role-play.</li>\n<li>All the elements you have been using for that.</li>\n</ul>\n</li>\n<li>Remember to share it with your teacher.</li>\n</ul>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/20260509073036CGZDNM/mceclip1.png\" /></p>\n<p style=\"text-align: left;\">From here on, you will be responsible of your progress. Remember that your teacher will be assessing you, and the assessment criteria established for that are: </p>\n<a href=\"https://docs.google.com/document/d/1yIivdncMy3Dj7zQ8VKAJJHGmzIkdOrfNwdTTrQZGx74/edit?tab=t.0\">https://docs.google.com/document/d/1yIivdncMy3Dj7zQ8VKAJJHGmzIkdOrfNwdTTrQZGx74/edit?tab=t.0</a> <br />","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp06bszl-21rmfo2vn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5 - How to create the role-play</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5 - How to create the role-play</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5 - How to create the role-play</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5 - How to create the role-play</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp06bszl-21rmfo2vn</odePageId>
+      <odeBlockId>20260509224902USWNZI</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>56</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp06bszl-21rmfo2vn</odePageId>
+          <odeBlockId>20260509224902USWNZI</odeBlockId>
+          <odeIdeviceId>20260509073036RKLTBQ</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="exe-text">
+<p style="text-align: left;">And now, let's create! Do you dare creating your own role-play?</p>
+<p>Remember that it must be about a conversation between a tour guide and a tourist, focused on the contents of this unit. Here is an example of this:</p>
+<p style="text-align: center;"><video width="560" height="315" controls="controls">
+<source src="https://www.youtube.com/shorts/nxkY1gmy-iI"></video></p>
+<p></p>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260509073036RKLTBQ","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"\n<p style=\"text-align: left;\">And now, let's create! Do you dare creating your own role-play?</p>\n<p>Remember that it must be about a conversation between a tour guide and a tourist, focused on the contents of this unit. Here is an example of this:</p>\n<p style=\"text-align: center;\"><video width=\"560\" height=\"315\" controls=\"controls\">\n<source src=\"https://www.youtube.com/shorts/nxkY1gmy-iI\" /></video></p>\n<p></p>\n","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp06bszl-21rmfo2vn</odePageId>
+      <odeBlockId>20260509224902VKJXZM</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>59</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp06bszl-21rmfo2vn</odePageId>
+          <odeBlockId>20260509224902VKJXZM</odeBlockId>
+          <odeIdeviceId>20260509073036HGVFXL</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260509073036HGVFXL","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp06bszp-1idxesii0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6 - Final Flip project</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6 - Final Flip project</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6 - Final Flip project</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6 - Final Flip project</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp06bszp-1idxesii0</odePageId>
+      <odeBlockId>20260509224902QUIXXI</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>65</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp06bszp-1idxesii0</odePageId>
+          <odeBlockId>20260509224902QUIXXI</odeBlockId>
+          <odeIdeviceId>20260509073036JJQPPD</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="exe-text">
+<p>Just one more step to finish this task. Open <a href="https://www.eduflip.tools/" id="link_0">Flip </a>with your school account and record your final project.&nbsp;</p>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260509073036JJQPPD","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"\n<p>Just one more step to finish this task. Open <a href=\"https://www.eduflip.tools/\" id=\"link_0\">Flip </a>with your school account and record your final project. </p>\n","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp06bszs-cxtxakczq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Credits</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Credits</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Credits</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Credits</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp06bszs-cxtxakczq</odePageId>
+      <odeBlockId>20260509224902XVLTNV</odeBlockId>
+      <blockName>Detalle y autoría</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>69</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp06bszs-cxtxakczq</odePageId>
+          <odeBlockId>20260509224902XVLTNV</odeBlockId>
+          <odeIdeviceId>20260509073036VXFNGO</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="exe-text">
+<p>Name: The Treasure of Communication: Discovering English through Real-Life Situations</p>
+<p>Description: Resource created for the course of Competencia Digital Docente nivel B2</p>
+<p>Author: Mª Ángeles Pardilla Ramírez</p>
+<p>Organisation: <a href="https://iesprofesorgonzalohuesa.org/" id="link_1">IES Profesor Gonzalo Huesa</a></p>
+<p>License: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a></p>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260509073036VXFNGO","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"\n<p>Name: The Treasure of Communication: Discovering English through Real-Life Situations</p>\n<p>Description: Resource created for the course of Competencia Digital Docente nivel B2</p>\n<p>Author: Mª Ángeles Pardilla Ramírez</p>\n<p>Organisation: <a href=\"https://iesprofesorgonzalohuesa.org/\" id=\"link_1\">IES Profesor Gonzalo Huesa</a></p>\n<p>License: <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a></p>\n","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp06bszs-cxtxakczq</odePageId>
+      <odeBlockId>20260509224902WZOGXO</odeBlockId>
+      <blockName>¡Descárgalo!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>72</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp06bszs-cxtxakczq</odePageId>
+          <odeBlockId>20260509224902WZOGXO</odeBlockId>
+          <odeIdeviceId>20260509073036XUSQNR</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Este recurso se ha publicado balo la <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a>, es por ello que puedes descargarlo y modificarlo para tu uso propio aunque, si lo haces, recuerda mencionar la autoría del mismo.</p>
+<p style="text-align: center;"><strong><span style="background-color: #0000ff; color: #ffffff;">  Descaga aquí el archivo .elp  </span></strong></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260509073036XUSQNR","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p>Este recurso se ha publicado balo la <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a>, es por ello que puedes descargarlo y modificarlo para tu uso propio aunque, si lo haces, recuerda mencionar la autoría del mismo.</p>\n<p style=\"text-align: center;\"><strong><span style=\"background-color: #0000ff; color: #ffffff;\">  Descaga aquí el archivo .elp  </span></strong></p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp06bszv-5osrj2sjn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Didactic guide</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Didactic guide</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Didactic guide</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Didactic guide</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp06bszv-5osrj2sjn</odePageId>
+      <odeBlockId>20260509224902OPMWOV</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>74</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp06bszv-5osrj2sjn</odePageId>
+          <odeBlockId>20260509224902OPMWOV</odeBlockId>
+          <odeIdeviceId>20260509073036FWNKWQ</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="exe-text">
+<p><img src="{{context_path}}/content/resources/20260509073036FWNKWQ/6.1._Asociamos_tareas_a_Criterios_de_evaluacion.pdf" alt=""><img src="{{context_path}}/content/resources/20260509073036FWNKWQ/mceclip2.png"><img src="{{context_path}}/content/resources/20260509073036FWNKWQ/aasdfasdf.xps" alt=""></p>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260509073036FWNKWQ","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"\n<p><img src=\"{{context_path}}/content/resources/20260509073036FWNKWQ/6.1._Asociamos_tareas_a_Criterios_de_evaluacion.pdf\" alt=\"\" /><img src=\"{{context_path}}/content/resources/20260509073036FWNKWQ/mceclip2.png\" /><img src=\"{{context_path}}/content/resources/20260509073036FWNKWQ/aasdfasdf.xps\" alt=\"\" /></p>\n","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
